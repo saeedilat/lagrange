@@ -23,7 +23,7 @@ export default function Header() {
         </div>
       </div>
       <div className='personal-img'>
-        <img  src='/images/banner-user-image-one.png' />
+        <img  src='./images/banner-user-image-one.png' />
       </div>
       </div>
     </div>
