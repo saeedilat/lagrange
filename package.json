@@ -1,7 +1,7 @@
 {
   "name": "lagrange",
   "version": "0.1.0",
-  "homepage": "https://saeedilat.github.io/lagrange.git",
+  "homepage": "https://saeedilat.github.io/lagrange/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
